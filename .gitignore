@@ -9,6 +9,7 @@
 
 # production
 /es
+/docs-dist
 
 # misc
 .DS_Store
@@ -23,3 +24,10 @@
 # ide
 /.vscode
 /.idea
+
+/.mfsu-dev
+/.mfsu-prod
+
+/dist
+
+dist/esm/index.js
